@@ -1,0 +1,9 @@
+PyAudio
+SpeechRecognition
+pyttsx3
+streamlit
+streamlit-chat
+folium
+streamlit-folium
+st-annotated-text
+pandas
