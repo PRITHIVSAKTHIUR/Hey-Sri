@@ -5,5 +5,5 @@ streamlit
 streamlit-chat==0.0.2.2
 folium==0.14.0
 streamlit-folium==0.11.1
-st-annotated-text==4.0.0
+st-annotated-text
 pandas==1.5.3
